@@ -14,7 +14,7 @@ namespace SampleApp.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "001", "002" };
+            return new string[] { "cd", "hod" };
         }
     }
 }
